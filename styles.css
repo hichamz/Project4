@@ -1,0 +1,23 @@
+.canvasjs-chart-credit
+{
+  display:none;
+}
+
+@media (max-width: 400px)
+.container {
+    margin-left: -100px;
+    max-width: 100px;
+}
+
+
+@media (max-width: 1100px)
+.container {
+    margin-left: -1000px;
+    max-width: 100px;
+}
+
+@media (min-width: 992px)
+.container {
+    margin-left: -390px;
+    max-width: 600px;
+}
